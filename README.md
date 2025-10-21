@@ -1,5 +1,8 @@
 # ML Night Competition: 2nd Place Solution
 
+![Project cover](assets/header.png)
+
+
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![XGBoost](https://img.shields.io/badge/XGBoost-1.5-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
