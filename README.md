@@ -95,9 +95,9 @@ make train
 
 ## 🧑‍💻 Authors
 
-**Mortadha Ferchichi**
-**Ayoub Ben Mahmoud**
-📧 ferchichii.mortadha@gmail.com
-📧 ayoubb917@gmail.com 
-🌐 https://github.com/morta123456
-🌐 https://github.com/Ayoub-Ben-Mahmoud
+**Mortadha Ferchichi**  
+**Ayoub Ben Mahmoud**  
+📧 ferchichii.mortadha@gmail.com  
+📧 ayoubb917@gmail.com  
+🌐 https://github.com/morta123456  
+🌐 https://github.com/Ayoub-Ben-Mahmoud  
