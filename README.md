@@ -11,7 +11,6 @@ A machine learning pipeline for predicting ad campaign budgets, achieving 2nd pl
 - **Rank**: 2nd Place
 - **Model**: XGBoost Regressor
 - **Key Features**: Temporal feature engineering, outlier removal, hyperparameter optimization
-- **Validation RMSE**: [Your RMSE score here]
 
 ## 🚀 Quick Start
 
