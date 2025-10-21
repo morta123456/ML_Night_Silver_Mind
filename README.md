@@ -77,7 +77,7 @@ make lint
 mlflow ui
 ```
 
-Windows (PowerShell) quick commands
+## 🐚 Windows (PowerShell) quick commands
 
 ```powershell
 python -m pip install --upgrade pip
